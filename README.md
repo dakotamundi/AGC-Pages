@@ -1,2 +1,2 @@
-# master
+# AGC-Pages
 GitHub Pages
